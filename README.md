@@ -48,9 +48,7 @@ The goal of this project is to explore the Titanic dataset and identify key fact
 - Perform feature engineering
 - Evaluate performance with classification metrics
 
-# Sample Visualization
 
-> *(Optional: Add screenshots here if you'd like)*
 
 # Contribution
 
